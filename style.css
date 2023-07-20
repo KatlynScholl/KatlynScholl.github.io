@@ -1,0 +1,38 @@
+Body{
+  background-color: #80ffff;
+}
+
+h1{
+  color:red;
+  font-size: 64px;
+  font-family: brush script mt;
+  
+  
+}
+
+.header {
+  background-color: black;
+  border: 1px solid red;
+  padding-left: 10px;
+  margin-left: 10px
+}
+
+.contacts {
+  background-color: black;
+}
+
+h5{
+  color:#80ffff;
+}
+
+h2{
+  color:#80ffff;
+  background-color: black;
+  
+}
+
+.patch {
+  width: 350xp;
+  padding: 0.5rem
+}
+
